@@ -9,6 +9,7 @@ public class PersonListPage extends BaseForm {
     private final static By pageLocator = By.xpath("//th[text()='Имя']");
     private final Button addPersonButton = new Button(By.xpath("//button[@class='add-btn']"),"Add person button");
     private final Label lastId = new Label(By.xpath("//tbody/tr[last()]/td[1]"), "Last id");
+
     public PersonListPage(){
         super(new Label(pageLocator, "uniqueElement from PersonListPage"),"PersonListPage");
     }

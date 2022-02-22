@@ -10,7 +10,7 @@ public class TestCase4 extends BaseTest {
 
     @Test
     public void test() {
-        LoggerUtility.info("TESTCASE4");
+        LoggerUtility.info("\n TESTCASE4");
         goToListPersonForm();
         int lastId = getLastId();
         goToAddPersonForm();
@@ -20,5 +20,6 @@ public class TestCase4 extends BaseTest {
         addPersonPage.sendPosition(PropertiesUtility.getStringValue(Resources.TEST.toString(), "truePosition" ));
         addPersonPage.clickCancelButton();
         Assert.assertEquals(lastId, getLastId(),"New user added");
+        LoggerUtility.info("TESTCASE4 completed successfully");
     }
 }

@@ -10,7 +10,7 @@ public class TestCase2 extends BaseTest {
 
     @Test
     public void test() {
-        LoggerUtility.info("TESTCASE2");
+        LoggerUtility.info("\n TESTCASE2");
         goToListPersonForm();
         goToAddPersonForm();
         addPersonPage.sendSurname(PropertiesUtility.getStringValue(Resources.TEST.toString(), "surName" ));
@@ -21,5 +21,6 @@ public class TestCase2 extends BaseTest {
         Assert.assertTrue(addPersonPage.checkPerson(PropertiesUtility.getStringValue(Resources.TEST.toString(), "surName" ),
                 PropertiesUtility.getStringValue(Resources.TEST.toString(), "firstName" ),
                 PropertiesUtility.getStringValue(Resources.TEST.toString(), "patronymic" )),"person not saved");
+        LoggerUtility.info("TESTCASE2 completed successfully");
     }
 }

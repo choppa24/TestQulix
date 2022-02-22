@@ -14,7 +14,6 @@ public class PropertiesUtility {
 
     public static void setUtilityFile(String file) {
         try {
-            LoggerUtility.info("set File");
             fis = new FileInputStream(Paths.RESOURCES.toString() + file);
             property.load(fis);
         } catch (IOException e) {

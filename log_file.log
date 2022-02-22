@@ -1,0 +1,211 @@
+2022-02-22 23:12:03 INFO  LoggerUtility:13 - Getting a text value 'browserName' from config file 
+2022-02-22 23:12:03 INFO  LoggerUtility:13 - Getting a text value 'windowSizeChrome' from config file 
+2022-02-22 23:12:03 INFO  LoggerUtility:13 - Getting a text value 'browserLanguageChrome' from config file 
+2022-02-22 23:12:06 INFO  LoggerUtility:13 - Getting an integer value 'pauseTime' from config file 
+2022-02-22 23:12:06 INFO  LoggerUtility:13 - 
+ TESTCASE1
+2022-02-22 23:12:06 INFO  LoggerUtility:13 - Getting a text value 'homeUrl' from config file 
+2022-02-22 23:12:06 INFO  LoggerUtility:13 - Opening a browser. Following a link
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking for a unique form element: HomePage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from HomePage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking for a unique form element: PersonListPage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from PersonListPage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking for a unique form element: AddPersonPage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from AddPersonPage
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Surname
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Surname input
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  First name
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Surname input
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Second name
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Second name input
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Position
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Position input
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Save button
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Checking element interactivity:  Cancel button
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - TESTCASE1 completed successfully
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Driver quit
+2022-02-22 23:12:07 INFO  LoggerUtility:13 - Closing the browser.
+
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Resetting the driver.
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting a text value 'browserName' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting a text value 'windowSizeChrome' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting a text value 'browserLanguageChrome' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting an integer value 'pauseTime' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - 
+ TESTCASE2
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting a text value 'homeUrl' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Opening a browser. Following a link
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Checking for a unique form element: HomePage
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from HomePage
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:08 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Checking for a unique form element: PersonListPage
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from PersonListPage
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Checking for a unique form element: AddPersonPage
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from AddPersonPage
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'surName' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'firstName' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'patronymic' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Entering text in a field: Second name input
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'truePosition' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Entering text in a field: Position input
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'surName' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'firstName' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting a text value 'patronymic' from config file 
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Checking element interactivity:  surNameLabel
+2022-02-22 23:12:09 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Checking element interactivity:  firstNameLabel
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Checking element interactivity:  patronymicLabel
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - TESTCASE2 completed successfully
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Driver quit
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Closing the browser.
+
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Resetting the driver.
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Getting a text value 'browserName' from config file 
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Getting a text value 'windowSizeChrome' from config file 
+2022-02-22 23:12:10 INFO  LoggerUtility:13 - Getting a text value 'browserLanguageChrome' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'pauseTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - 
+ TESTCASE3
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting a text value 'homeUrl' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Opening a browser. Following a link
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking for a unique form element: HomePage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from HomePage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking for a unique form element: PersonListPage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from PersonListPage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking for a unique form element: AddPersonPage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from AddPersonPage
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting a text value 'surName' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting a text value 'firstName' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting a text value 'patronymic' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Entering text in a field: Second name input
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting a text value 'falsePosition' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Entering text in a field: Position input
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:11 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Checking element interactivity:  errorPositionMessage
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - TESTCASE3 completed successfully
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Driver quit
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Closing the browser.
+
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Resetting the driver.
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting a text value 'browserName' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting a text value 'windowSizeChrome' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting a text value 'browserLanguageChrome' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting an integer value 'pauseTime' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - 
+ TESTCASE4
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Getting a text value 'homeUrl' from config file 
+2022-02-22 23:12:12 INFO  LoggerUtility:13 - Opening a browser. Following a link
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking for a unique form element: HomePage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from HomePage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking for a unique form element: PersonListPage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from PersonListPage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting the text of an element: Last id
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking for a unique form element: AddPersonPage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from AddPersonPage
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting a text value 'surName' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting a text value 'firstName' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting a text value 'patronymic' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Entering text in a field: Second name input
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting a text value 'truePosition' from config file 
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Entering text in a field: Position input
+2022-02-22 23:12:13 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting the text of an element: Last id
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - TESTCASE4 completed successfully
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Driver quit
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Closing the browser.
+
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Resetting the driver.
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting a text value 'browserName' from config file 
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting a text value 'windowSizeChrome' from config file 
+2022-02-22 23:12:14 INFO  LoggerUtility:13 - Getting a text value 'browserLanguageChrome' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting an integer value 'pauseTime' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - 
+ TESTCASE5
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting a text value 'homeUrl' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Opening a browser. Following a link
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Checking for a unique form element: HomePage
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from HomePage
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Checking for a unique form element: PersonListPage
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from PersonListPage
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting the text of an element: Last id
+2022-02-22 23:12:15 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Checking for a unique form element: AddPersonPage
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Checking element interactivity:  uniqueElement from AddPersonPage
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting a text value 'surName' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting a text value 'firstName' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Entering text in a field: Surname input
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting a text value 'patronymic' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Entering text in a field: Second name input
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting a text value 'truePosition' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Entering text in a field: Position input
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting the text of an element: Last id
+2022-02-22 23:12:16 INFO  LoggerUtility:13 - Getting an integer value 'explicitTime' from config file 
+2022-02-22 23:12:17 INFO  LoggerUtility:13 - TESTCASE5 completed successfully
+2022-02-22 23:12:17 INFO  LoggerUtility:13 - Driver quit
+2022-02-22 23:12:17 INFO  LoggerUtility:13 - Closing the browser.
+
+2022-02-22 23:12:17 INFO  LoggerUtility:13 - Resetting the driver.

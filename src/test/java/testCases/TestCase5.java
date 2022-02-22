@@ -10,7 +10,7 @@ public class TestCase5 extends BaseTest {
     private final int DELTA_ID = 1;
     @Test
     public void test() {
-        LoggerUtility.info("TESTCASE5");
+        LoggerUtility.info("\n TESTCASE5");
         goToListPersonForm();
         int lastId = getLastId();
         goToAddPersonForm();
@@ -20,5 +20,6 @@ public class TestCase5 extends BaseTest {
         addPersonPage.sendPosition(PropertiesUtility.getStringValue(Resources.TEST.toString(), "truePosition" ));
         addPersonPage.clickSaveButton();
         Assert.assertEquals(lastId + DELTA_ID, getLastId(),"New user not added");
+        LoggerUtility.info("TESTCASE5 completed successfully");
     }
 }

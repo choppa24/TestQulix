@@ -9,9 +9,10 @@ public class TestCase1 extends BaseTest {
 
     @Test
     public void test() {
-        LoggerUtility.info("TESTCASE1");
+        LoggerUtility.info("\n TESTCASE1");
         goToListPersonForm();
         goToAddPersonForm();
         Assert.assertTrue(addPersonPage.isElementsDisplayed(),"Not all items displayed.");
+        LoggerUtility.info("TESTCASE1 completed successfully");
     }
 }

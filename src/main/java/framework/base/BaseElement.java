@@ -20,6 +20,7 @@ public abstract class BaseElement {
 
     public boolean isDisplayed() {
         LoggerUtility.info("Checking element interactivity:  " + name);
+        System.out.println(locator);
         try {
             this.waitForPresent();
         }
